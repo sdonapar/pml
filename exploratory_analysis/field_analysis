@@ -1,0 +1,640 @@
+[1] "1 : X"
+
+FALSE 
+19622 
+[1] "2 : user_name"
+
+FALSE 
+19622 
+[1] "3 : raw_timestamp_part_1"
+
+FALSE 
+19622 
+[1] "4 : raw_timestamp_part_2"
+
+FALSE 
+19622 
+[1] "5 : cvtd_timestamp"
+
+FALSE 
+19622 
+[1] "6 : new_window"
+
+FALSE 
+19622 
+[1] "7 : num_window"
+
+FALSE 
+19622 
+[1] "8 : roll_belt"
+
+FALSE 
+19622 
+[1] "9 : pitch_belt"
+
+FALSE 
+19622 
+[1] "10 : yaw_belt"
+
+FALSE 
+19622 
+[1] "11 : total_accel_belt"
+
+FALSE 
+19622 
+[1] "12 : kurtosis_roll_belt"
+
+FALSE  TRUE 
+  396 19226 
+[1] "13 : kurtosis_picth_belt"
+
+FALSE  TRUE 
+  374 19248 
+[1] "14 : kurtosis_yaw_belt"
+
+ TRUE 
+19622 
+[1] "15 : skewness_roll_belt"
+
+FALSE  TRUE 
+  397 19225 
+[1] "16 : skewness_roll_belt.1"
+
+FALSE  TRUE 
+  374 19248 
+[1] "17 : skewness_yaw_belt"
+
+ TRUE 
+19622 
+[1] "18 : max_roll_belt"
+
+FALSE 
+19622 
+[1] "19 : max_picth_belt"
+
+FALSE 
+19622 
+[1] "20 : max_yaw_belt"
+
+FALSE  TRUE 
+  396 19226 
+[1] "21 : min_roll_belt"
+
+FALSE 
+19622 
+[1] "22 : min_pitch_belt"
+
+FALSE 
+19622 
+[1] "23 : min_yaw_belt"
+
+FALSE  TRUE 
+  396 19226 
+[1] "24 : amplitude_roll_belt"
+
+FALSE 
+19622 
+[1] "25 : amplitude_pitch_belt"
+
+FALSE 
+19622 
+[1] "26 : amplitude_yaw_belt"
+
+FALSE  TRUE 
+  396 19226 
+[1] "27 : var_total_accel_belt"
+
+FALSE 
+19622 
+[1] "28 : avg_roll_belt"
+
+FALSE 
+19622 
+[1] "29 : stddev_roll_belt"
+
+FALSE 
+19622 
+[1] "30 : var_roll_belt"
+
+FALSE 
+19622 
+[1] "31 : avg_pitch_belt"
+
+FALSE 
+19622 
+[1] "32 : stddev_pitch_belt"
+
+FALSE 
+19622 
+[1] "33 : var_pitch_belt"
+
+FALSE 
+19622 
+[1] "34 : avg_yaw_belt"
+
+FALSE 
+19622 
+[1] "35 : stddev_yaw_belt"
+
+FALSE 
+19622 
+[1] "36 : var_yaw_belt"
+
+FALSE 
+19622 
+[1] "37 : gyros_belt_x"
+
+FALSE 
+19622 
+[1] "38 : gyros_belt_y"
+
+FALSE 
+19622 
+[1] "39 : gyros_belt_z"
+
+FALSE 
+19622 
+[1] "40 : accel_belt_x"
+
+FALSE 
+19622 
+[1] "41 : accel_belt_y"
+
+FALSE 
+19622 
+[1] "42 : accel_belt_z"
+
+FALSE 
+19622 
+[1] "43 : magnet_belt_x"
+
+FALSE 
+19622 
+[1] "44 : magnet_belt_y"
+
+FALSE 
+19622 
+[1] "45 : magnet_belt_z"
+
+FALSE 
+19622 
+[1] "46 : roll_arm"
+
+FALSE 
+19622 
+[1] "47 : pitch_arm"
+
+FALSE 
+19622 
+[1] "48 : yaw_arm"
+
+FALSE 
+19622 
+[1] "49 : total_accel_arm"
+
+FALSE 
+19622 
+[1] "50 : var_accel_arm"
+
+FALSE 
+19622 
+[1] "51 : avg_roll_arm"
+
+FALSE 
+19622 
+[1] "52 : stddev_roll_arm"
+
+FALSE 
+19622 
+[1] "53 : var_roll_arm"
+
+FALSE 
+19622 
+[1] "54 : avg_pitch_arm"
+
+FALSE 
+19622 
+[1] "55 : stddev_pitch_arm"
+
+FALSE 
+19622 
+[1] "56 : var_pitch_arm"
+
+FALSE 
+19622 
+[1] "57 : avg_yaw_arm"
+
+FALSE 
+19622 
+[1] "58 : stddev_yaw_arm"
+
+FALSE 
+19622 
+[1] "59 : var_yaw_arm"
+
+FALSE 
+19622 
+[1] "60 : gyros_arm_x"
+
+FALSE 
+19622 
+[1] "61 : gyros_arm_y"
+
+FALSE 
+19622 
+[1] "62 : gyros_arm_z"
+
+FALSE 
+19622 
+[1] "63 : accel_arm_x"
+
+FALSE 
+19622 
+[1] "64 : accel_arm_y"
+
+FALSE 
+19622 
+[1] "65 : accel_arm_z"
+
+FALSE 
+19622 
+[1] "66 : magnet_arm_x"
+
+FALSE 
+19622 
+[1] "67 : magnet_arm_y"
+
+FALSE 
+19622 
+[1] "68 : magnet_arm_z"
+
+FALSE 
+19622 
+[1] "69 : kurtosis_roll_arm"
+
+FALSE  TRUE 
+  328 19294 
+[1] "70 : kurtosis_picth_arm"
+
+FALSE  TRUE 
+  326 19296 
+[1] "71 : kurtosis_yaw_arm"
+
+FALSE  TRUE 
+  395 19227 
+[1] "72 : skewness_roll_arm"
+
+FALSE  TRUE 
+  329 19293 
+[1] "73 : skewness_pitch_arm"
+
+FALSE  TRUE 
+  326 19296 
+[1] "74 : skewness_yaw_arm"
+
+FALSE  TRUE 
+  395 19227 
+[1] "75 : max_roll_arm"
+
+FALSE 
+19622 
+[1] "76 : max_picth_arm"
+
+FALSE 
+19622 
+[1] "77 : max_yaw_arm"
+
+FALSE 
+19622 
+[1] "78 : min_roll_arm"
+
+FALSE 
+19622 
+[1] "79 : min_pitch_arm"
+
+FALSE 
+19622 
+[1] "80 : min_yaw_arm"
+
+FALSE 
+19622 
+[1] "81 : amplitude_roll_arm"
+
+FALSE 
+19622 
+[1] "82 : amplitude_pitch_arm"
+
+FALSE 
+19622 
+[1] "83 : amplitude_yaw_arm"
+
+FALSE 
+19622 
+[1] "84 : roll_dumbbell"
+
+FALSE 
+19622 
+[1] "85 : pitch_dumbbell"
+
+FALSE 
+19622 
+[1] "86 : yaw_dumbbell"
+
+FALSE 
+19622 
+[1] "87 : kurtosis_roll_dumbbell"
+
+FALSE  TRUE 
+  401 19221 
+[1] "88 : kurtosis_picth_dumbbell"
+
+FALSE  TRUE 
+  404 19218 
+[1] "89 : kurtosis_yaw_dumbbell"
+
+ TRUE 
+19622 
+[1] "90 : skewness_roll_dumbbell"
+
+FALSE  TRUE 
+  402 19220 
+[1] "91 : skewness_pitch_dumbbell"
+
+FALSE  TRUE 
+  405 19217 
+[1] "92 : skewness_yaw_dumbbell"
+
+ TRUE 
+19622 
+[1] "93 : max_roll_dumbbell"
+
+FALSE 
+19622 
+[1] "94 : max_picth_dumbbell"
+
+FALSE 
+19622 
+[1] "95 : max_yaw_dumbbell"
+
+FALSE  TRUE 
+  401 19221 
+[1] "96 : min_roll_dumbbell"
+
+FALSE 
+19622 
+[1] "97 : min_pitch_dumbbell"
+
+FALSE 
+19622 
+[1] "98 : min_yaw_dumbbell"
+
+FALSE  TRUE 
+  401 19221 
+[1] "99 : amplitude_roll_dumbbell"
+
+FALSE 
+19622 
+[1] "100 : amplitude_pitch_dumbbell"
+
+FALSE 
+19622 
+[1] "101 : amplitude_yaw_dumbbell"
+
+FALSE  TRUE 
+  401 19221 
+[1] "102 : total_accel_dumbbell"
+
+FALSE 
+19622 
+[1] "103 : var_accel_dumbbell"
+
+FALSE 
+19622 
+[1] "104 : avg_roll_dumbbell"
+
+FALSE 
+19622 
+[1] "105 : stddev_roll_dumbbell"
+
+FALSE 
+19622 
+[1] "106 : var_roll_dumbbell"
+
+FALSE 
+19622 
+[1] "107 : avg_pitch_dumbbell"
+
+FALSE 
+19622 
+[1] "108 : stddev_pitch_dumbbell"
+
+FALSE 
+19622 
+[1] "109 : var_pitch_dumbbell"
+
+FALSE 
+19622 
+[1] "110 : avg_yaw_dumbbell"
+
+FALSE 
+19622 
+[1] "111 : stddev_yaw_dumbbell"
+
+FALSE 
+19622 
+[1] "112 : var_yaw_dumbbell"
+
+FALSE 
+19622 
+[1] "113 : gyros_dumbbell_x"
+
+FALSE 
+19622 
+[1] "114 : gyros_dumbbell_y"
+
+FALSE 
+19622 
+[1] "115 : gyros_dumbbell_z"
+
+FALSE 
+19622 
+[1] "116 : accel_dumbbell_x"
+
+FALSE 
+19622 
+[1] "117 : accel_dumbbell_y"
+
+FALSE 
+19622 
+[1] "118 : accel_dumbbell_z"
+
+FALSE 
+19622 
+[1] "119 : magnet_dumbbell_x"
+
+FALSE 
+19622 
+[1] "120 : magnet_dumbbell_y"
+
+FALSE 
+19622 
+[1] "121 : magnet_dumbbell_z"
+
+FALSE 
+19622 
+[1] "122 : roll_forearm"
+
+FALSE 
+19622 
+[1] "123 : pitch_forearm"
+
+FALSE 
+19622 
+[1] "124 : yaw_forearm"
+
+FALSE 
+19622 
+[1] "125 : kurtosis_roll_forearm"
+
+FALSE  TRUE 
+  322 19300 
+[1] "126 : kurtosis_picth_forearm"
+
+FALSE  TRUE 
+  321 19301 
+[1] "127 : kurtosis_yaw_forearm"
+
+ TRUE 
+19622 
+[1] "128 : skewness_roll_forearm"
+
+FALSE  TRUE 
+  323 19299 
+[1] "129 : skewness_pitch_forearm"
+
+FALSE  TRUE 
+  321 19301 
+[1] "130 : skewness_yaw_forearm"
+
+ TRUE 
+19622 
+[1] "131 : max_roll_forearm"
+
+FALSE 
+19622 
+[1] "132 : max_picth_forearm"
+
+FALSE 
+19622 
+[1] "133 : max_yaw_forearm"
+
+FALSE  TRUE 
+  322 19300 
+[1] "134 : min_roll_forearm"
+
+FALSE 
+19622 
+[1] "135 : min_pitch_forearm"
+
+FALSE 
+19622 
+[1] "136 : min_yaw_forearm"
+
+FALSE  TRUE 
+  322 19300 
+[1] "137 : amplitude_roll_forearm"
+
+FALSE 
+19622 
+[1] "138 : amplitude_pitch_forearm"
+
+FALSE 
+19622 
+[1] "139 : amplitude_yaw_forearm"
+
+FALSE  TRUE 
+  322 19300 
+[1] "140 : total_accel_forearm"
+
+FALSE 
+19622 
+[1] "141 : var_accel_forearm"
+
+FALSE 
+19622 
+[1] "142 : avg_roll_forearm"
+
+FALSE 
+19622 
+[1] "143 : stddev_roll_forearm"
+
+FALSE 
+19622 
+[1] "144 : var_roll_forearm"
+
+FALSE 
+19622 
+[1] "145 : avg_pitch_forearm"
+
+FALSE 
+19622 
+[1] "146 : stddev_pitch_forearm"
+
+FALSE 
+19622 
+[1] "147 : var_pitch_forearm"
+
+FALSE 
+19622 
+[1] "148 : avg_yaw_forearm"
+
+FALSE 
+19622 
+[1] "149 : stddev_yaw_forearm"
+
+FALSE 
+19622 
+[1] "150 : var_yaw_forearm"
+
+FALSE 
+19622 
+[1] "151 : gyros_forearm_x"
+
+FALSE 
+19622 
+[1] "152 : gyros_forearm_y"
+
+FALSE 
+19622 
+[1] "153 : gyros_forearm_z"
+
+FALSE 
+19622 
+[1] "154 : accel_forearm_x"
+
+FALSE 
+19622 
+[1] "155 : accel_forearm_y"
+
+FALSE 
+19622 
+[1] "156 : accel_forearm_z"
+
+FALSE 
+19622 
+[1] "157 : magnet_forearm_x"
+
+FALSE 
+19622 
+[1] "158 : magnet_forearm_y"
+
+FALSE 
+19622 
+[1] "159 : magnet_forearm_z"
+
+FALSE 
+19622 
+[1] "160 : classe"
+
+FALSE 
+19622 
